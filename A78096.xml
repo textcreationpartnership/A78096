@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short description and vindication of the true sal volatile oleosum.Of the ancients wherein 'tis prov'd the great medicine of the spirits; and consequently, an universal remedy. By T. Byfield, M.D.</title>
+            <author>Byfield, T. (Timothy)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78096</idno>
+            <idno type="STC">Wing B6399</idno>
+            <idno type="STC">ESTC R232656</idno>
+            <idno type="EEBO-CITATION">99898027</idno>
+            <idno type="PROQUEST">99898027</idno>
+            <idno type="VID">171029</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171029)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2551:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short description and vindication of the true sal volatile oleosum.Of the ancients wherein 'tis prov'd the great medicine of the spirits; and consequently, an universal remedy. By T. Byfield, M.D.</title>
+                  <author>Byfield, T. (Timothy)</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Cumberland, at the Angel in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Below imprint: Price two pence.</note>
+                  <note>Reproduction of original in the Royal College of Physicians,London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Physiologic salines --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171029:1" rendition="simple:additions"/>
+            <p> A Short Deſcription <hi>and</hi> Vindication Of the True <hi>Sal Volatile Oleoſum.</hi>
+            </p>
+            <p>OF THE ANCIENTS: Wherein 'tis prov'd <hi>The Great Medicine of the Spirits;</hi>
+            </p>
+            <p>And conſequently, An Univerſal Remedy.</p>
+            <p>By <hi>T. BYFIELD,</hi> M. D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Cumberland,</hi> at the <hi>Angel</hi> in St. <hi>Paul</hi>'s Church-yard, 1699.</p>
+            <p>Price Two Pence.</p>
+            <pb facs="tcp:171029:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="description_of_medicinal_carbonate_of_ammonia_flavored_with_volatile_oils">
+            <pb facs="tcp:171029:2"/>
+            <head>A Short Deſcription <hi>and</hi> Vindication Of the True <hi>Sal Volatile Oleoſum.</hi>
+            </head>
+            <p>THE Errors about this Noble Medicine are ſo many and ſo groſs, they deſerve not to be refuted. But the diſparage<g ref="char:EOLhyphen"/>ment done to Learning thereby, as well as Damage to the Healths, and Lives of Perſons, has concerned me in the Preparation and Vindi<g ref="char:EOLhyphen"/>cation of it.</p>
+            <p>All the Learned Maſters of Chymiſtry, who have treated of this Celebrated Medicine, have declared the Subject to be the <hi>Salt of Nature</hi> alone; altho they have obſcurely wrote, concerning its Diſcove<g ref="char:EOLhyphen"/>ry and Preparation, which has precipitated many into very great Errors; who not knowing the Sub<g ref="char:EOLhyphen"/>ject, buſie themſelves about other things, altogether unfit for this Work. But if they wou'd conſider, what this Salt is in its own Nature, and what Qua<g ref="char:EOLhyphen"/>lities it hath, and ſo comparing the Qualities of their Compoſitions, with the Qualities of this <hi>Salt</hi> of <hi>Life,</hi> the Thing it ſelf wou'd diſcover what is Truth, and what not.</p>
+            <pb n="4" facs="tcp:171029:3"/>
+            <p> Take a Deſcription of it in theſe Particulars:
+<list>
+                  <item>1. The Subject of the true <hi>Sal Volatile Oleoſum,</hi> muſt be only one thing; For, <hi>Oleoſum</hi> is op<g ref="char:EOLhyphen"/>poſite to <hi>Macrum,</hi> as Fat to Lean.</item>
+                  <item>2. The Virtues and Powers of the Superiors and Inferiors, are concentrated in it.</item>
+                  <item>3. It containeth in it ſelf the Vital Fire.</item>
+                  <item>4. 'Tis incombuſtible, and deſpiſeth the Violence of the Flames.</item>
+                  <item>5. 'Tis both Volatil and Fixt.</item>
+                  <item>6. It containeth the three Principles of Nature, in the higheſt Purity; <hi>viz.</hi> Salt, Sulphur, and Mercury.</item>
+                  <item>7. 'Tis of great Splendor, Ponderoſity and Te<g ref="char:EOLhyphen"/>nuity.</item>
+                  <item>8. It contains the Vital Tincture of the World, <hi>in Potentia.</hi>
+                  </item>
+                  <item>9. 'Tis the very Spring of Radical Moiſture.</item>
+                  <item>10. 'Tis only one Clean, Bright, Fat, Salt.</item>
+               </list>
+            </p>
+            <p>I know there are many, who will not approve of this Deſcription of our Medicine, eſpecially thoſe who are employ'd about divers Mixtures and Com<g ref="char:EOLhyphen"/>poſitions, which they call by this Name, altho they have nothing of the Nature and Virtues of the true Medicine. But ſuch wou'd do well to conſult the Ancient Philoſophers, who expound the Principles, and their occult Operations.</p>
+            <p>Then the certainty of this Salt wou'd be evidently known, by ſhewing Sulphur reſiding in it, in the form of a Subtil, Thin, Illuminating Oil, of an E<g ref="char:EOLhyphen"/>thereal Quality. And <hi>Mercury</hi> as the Aereal Humi<g ref="char:EOLhyphen"/>dity, and the inſeparable Companion of Sulphur and the <hi>Medium</hi> to conjoin it with the Salt. And the Principle of Coagulation is the Salt, wherein is ſecur'd the Mercury and Sulphur, for it is cal<g ref="char:EOLhyphen"/>l'd, <hi>Domicilium inviſibilis ſeminis.</hi>
+            </p>
+            <pb n="5" facs="tcp:171029:3"/>
+            <p> So you have the three Principles of Nature, all in one Saline Body. But Salt is always reckon'd firſt, by Chymiſts, becauſe, whoever has the true Univerſal Salt of the World, has Mercury and Sulphur included.</p>
+            <p>You muſt be very wary in the Choice of your Salt, for it is of moſt profound ſearch, and differs much from all other Salts.</p>
+            <p>
+               <hi>Avicen</hi> diſcourſing of this Medicine, ſays, <hi>Salia cujuſcunque generis ſint, noſtrae Arti ſunt contraria, ex<g ref="char:EOLhyphen"/>cepto Sale Naturae.</hi>
+            </p>
+            <p>
+               <hi>Sal Naturae in centro Elementorum, qualificatione A<g ref="char:EOLhyphen"/>ſtrorum, per Spiritum Mundi, abſque ulla ceſſatione, gene<g ref="char:EOLhyphen"/>ratur, &amp; radiis Solis &amp; Lunae in ma<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Philoſophico gubernatur. Arnoldus.</hi> But <hi>Morienus</hi> gives the Re<g ref="char:EOLhyphen"/>ceipt: <hi>Spiritus <g ref="char:V">Ʋ</g>niverſi dicitur Sal Spirituoſum, &amp; il<g ref="char:EOLhyphen"/>lud Sal extrahitur menſibus vernalibus, Sole ad nos re<g ref="char:EOLhyphen"/>deunte: Illud ipſum Sal ex rore Majali colligitur, ex eoque fit &amp; conficitur Medicina <g ref="char:V">Ʋ</g>niverſalis.</hi>
+            </p>
+            <p>If your Salt be right, in the Anatomy of it, you'l ſee a certain Subtil, Shining, Tranſparent Oil, (which is the <hi>Oleoſum</hi> of the Medicine) full of Active Virtue, and containing the Vital Fire of the World; But moſt Temperate, Equal and Similar to Life in Man.</p>
+            <p>For the Natural Heat, or Fire in Bodies, is that Vital Flame, which forms its own Body, and is no<g ref="char:EOLhyphen"/>thing elſe but the Spirits, or Fiery Life in Crea<g ref="char:EOLhyphen"/>tures. And this Fire, or Life, which preſerves Be<g ref="char:EOLhyphen"/>ings, muſt be cloathed with ſuch an Eſſence, as can pierce and penetrate all Bodies whatſoever; for where it cannot penetrate, it cannot quicken and illuminate.</p>
+            <p>The <hi>Sun</hi> by its Fire doth excite and quicken every
+<pb n="4" facs="tcp:171029:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:171029:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:171029:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:171029:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:171029:6"/> thing upon Earth: So the Fire which is proper an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> peculiar to every Creature does preſerve in it Life.</p>
+            <p>For we find that when our Heat or Warmth begin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to decreaſe in its wonted Activity, we grow Dull<g ref="char:punc">▪</g> Cold and Unactive; and when it ceaſeth altogether we Die and Periſh.</p>
+            <p>It may be obſerv'd in declining Age, when Natu<g ref="char:EOLhyphen"/>ral Heat abates, that a cold Phlegmacy and rawneſs abounds with a crude Earthineſs, and ſuch Perſons have often freſh inſipid Urines, for want of the Salt of Life, which is inſeparable from the Volatil Liv<g ref="char:EOLhyphen"/>ing Fire.</p>
+            <p>Experience ſhews that whereſoever our Fire is ſtrong, Salt abounds, as in Sweat, Urine, <hi>&amp;c.</hi>
+            </p>
+            <p>The Salter any ones Sweat and Urine is, the more lively and vigorous he is. So that Salt is the conſe<g ref="char:EOLhyphen"/>quent of Fire. Whereſoever Salt is, there Fire is al<g ref="char:EOLhyphen"/>ſo, whether it be in Air, Earth, Vegetables, Animals, <hi>&amp;c.</hi> Some of the Ancients have called the Sun the Salt of the World. For which reaſon 'tis probable, the Greeks call'd Salt ἅλας and the Sun Ἥλιος. The Ro<g ref="char:EOLhyphen"/>mans called the Sun <hi>Sol,</hi> and Salt <hi>Sal,</hi> repreſenting the likeneſs of their Natures, by the likeneſs of their Names. 'Tis ſaid Mark 9. 49. <hi>Every one ſhall be ſalted with Fire.</hi> And this Fire, or Life, which is in the Salt, is pro<g ref="char:EOLhyphen"/>perly that, which preſerves the Creatures from Putre<g ref="char:EOLhyphen"/>faction: For when this Life hath once left the Salt, we are told, Matth. 5. 13. <hi>That it is good for nothing, but to be caſt out, and to be trod under Foot by men.</hi>
+            </p>
+            <p>Every Creature hath its vivifying Spirit or Fire, and ſtands in need of a Spiritual Nutriment, which is plen<g ref="char:EOLhyphen"/>tiful in the Air, and to be attracted in the Form of a tender Oily Salt. And ſince Spirit of Blood is a fine Volatil Salt, what more ſimilar and uniform, than the Salt of Air to that of Blood.</p>
+            <pb n="7" facs="tcp:171029:6"/>
+            <p> But 'tis from the Sulphur and Mercury contain'd in the Salt, that it becomes capable of Production; for with them the Volatil living Fire inſinuates it ſelf moſt intimately with its influential Virtues giving Splendor and Spirit to the Salt: Thus it becomes agreeable to all Creatures for the ſuſtaining of Life, and thoſe Bo<g ref="char:EOLhyphen"/>dies that are moſt impregnated with it, are in a bet<g ref="char:EOLhyphen"/>ter State of Health and Vigor.</p>
+            <p>Beſides 'tis the true Vital Ferment of Bodies, and Root of Radical Moiſture; For by the Action of the Fire upon the Principles, is generated the Balſom of Nature and Seminal Spirits, and theſe are coagulated in this <hi>Salt of Nature,</hi> which is the Soul of the Earth and of all other things. If the Earth were depriv'd of this Salt, it wou'd want the Power of Sprouting and Budding. It is the only Subject un<g ref="char:EOLhyphen"/>der the Concave of the Moon, in which the Virtues as well of the Superiors, as of the Inferiors, lye concen<g ref="char:EOLhyphen"/>trated, and out of which alone by the Chymical Art, our Learned Maſters prepar'd their true <hi>Sal Volatile Oleoſum.</hi>
+            </p>
+            <p>And not from the Lean, Impoveriſht, Cauſtic Salts of any Bodies whatſoever, in Conjunction with Oils, Spirits, Perfumes, <hi>&amp;c.</hi> after every ones Fancy, where<g ref="char:EOLhyphen"/>with the World does ſo abound. For at this rate may be made 1000 ſorts. Whenas there is but only one in Nature, viz. <hi>A Clean, Bright, Fat, Virgin-Salt,</hi> which open'd by Art, ſhews a tranſparent white Sulphur, or Oil, that is of ſo great Moment; For in the white, lyes the incombuſtible red Sulphur, which cloaths the Fie<g ref="char:EOLhyphen"/>ry Life of Beings, and is the Spring of indelible, Vi<g ref="char:EOLhyphen"/>tal Tincture.</p>
+            <p>I have choſe to give this Salt, thus open'd, for the more eaſie mixing with Liquors, and its readineſs to be aſſimulated. Beſides 'tis a demonſtration of its Oily<g ref="char:EOLhyphen"/>neſs, which manifeſts the Medicine and a piece of Art. For the Body is wholly Saline, and by an eaſie heat I can lock up the Mercury and Sulphur again, and re<g ref="char:EOLhyphen"/>preſent
+<pb n="8" facs="tcp:171029:7"/> an intire Body of Salt. So you have the three Principles of Nature in Unity. This is a great Secret, and a branch of oceult Philoſophy.</p>
+            <p>Honeſt <hi>Avicen,</hi> in very poor Latin, writing of this Medicine, ſays thus, <hi>Qui ergo ſcit Salem &amp; ejus ſolutio<g ref="char:EOLhyphen"/>nem, Ille ſcit verum Salem Volatilem Oleoſum Antiquorum Sapientum: Pone ergo tuam mentem ſuper Salem, nec cogites de aliis, nam in ipſo ſolo occultatur Medicina Vera.</hi>
+            </p>
+            <p>From what is ſaid, 'tis manifeſt, that this Salt alone hath Vital Endowments, let it appear under what form ſoever. And ſo it becomes the genuine, adaequate Medi<g ref="char:EOLhyphen"/>cine of the Spirits, and conſequently an Univerſal Medi<g ref="char:EOLhyphen"/>cine.</p>
+            <p>In Man is a peculiar, vivifying, innate Spirit, which contributes both Light and Life to the Body; for con<g ref="char:EOLhyphen"/>ſerving and ſuſtaining the ſame. And it manifeſts its own exquiſite Skill, (as Experience daily proves) in ſeparating the pure from the impure, of all our Meat and Drink.</p>
+            <p>This Spiritual Eſſence, the Active, Internal Agent in all Bodies, is often invaded by Diſeaſy Ferments, re<g ref="char:EOLhyphen"/>ceived from Meats, Drinks, Corrupt and Unwholſom Airs, <hi>&amp;c.</hi> And very often no longer capable to ſup<g ref="char:EOLhyphen"/>preſs thoſe Diſorders, without the help of a Medicine naturally gifted, to caſt a friendly Ray or Beam of Light, upon the diſcompos'd and darkned Spirit, by which it is enabled to expell what offends.</p>
+            <p>And of ſuch a Nature is our Medicine, Homogeneal to our Spirits, whereby they are kept undiſturb'd, and Life and Health maintain'd.</p>
+            <p>Our Natural Spirits are Volatil Oily Subſtances, there<g ref="char:EOLhyphen"/>fore by Sympathy they are delighted and refreſht with our <hi>Volatil Oily Salt. Spirituum Oleaginitas conſiſtit in Sale Oleoſo Volatili.</hi>
+            </p>
+            <pb n="9" facs="tcp:171029:7"/>
+            <p> That which Fabricated the Man, muſt be the Con<g ref="char:EOLunhyphen"/>ſerver of that Frame. Diſeaſy Powers aim at nothing elſe but its Deſtruction. Yet no morbifick Power can exiſt in the Body of Man, where the Spirit of Life ſtands clear and undefil'd. As is apparent in a Peſti<g ref="char:EOLhyphen"/>lential Seaſon: In ſome Bodies the Spirits being clean and ſtrong, remain untouch't, and no Venom introduc't. But in others the Spirits being not ſo clear, or ſtrong enough to defend themſelves, admit of Peſtilential Airs, and ſo form the Diſeaſe: Yet if timely aſſiſted by Natural Remedies, eaſily and readily expel the ſame.</p>
+            <p>When the Spitits have any Diſeaſy Impreſs, by the means of a generous Medicine, they can rectify their own defiled Air, and illuminate and reſtore the diſ<g ref="char:EOLhyphen"/>compoſed Spirits to their priſtin State, ſo that no Diſ<g ref="char:EOLhyphen"/>eaſe can long abide.</p>
+            <p>In <hi>Sacred Scriptures</hi> we read that <hi>Eliſha,</hi> at the re<g ref="char:EOLhyphen"/>queſt of the Inhabitants of <hi>Jericho,</hi> intending to heal their Venomous <hi>Waters,</hi> went not to the <hi>Streams,</hi> but to the Fountain it ſelf, and there caſt in Salt. So ought every Phyſician in his Adminiſtration of Reme<g ref="char:EOLhyphen"/>dies, to reſpect the Fountain or Original, not the Streams or Effects of Diſeaſes.</p>
+            <p>For <hi>That,</hi> by which a Diſeaſe is form'd, is <hi>That,</hi> to which the Remedy ought to be apply'd.</p>
+            <p>A true Medicine relieves the Natural Spirits, d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bi<g ref="char:EOLhyphen"/>litated or diſturb'd, without reſolving the nouriſhing Juices of the Body, and ejecting of 'em as Excre<g ref="char:EOLhyphen"/>ments and Superfluities, as common Purges, and other forcible Medicines do, to the impoveriſhing of Nature.</p>
+            <p>The Spirits interrupted and oppreſt are uncapable to perform their wonted Actions and Natural Separations. But a Congeneal Medicine excites their Powers to officiate, amend and reſtore the Body.</p>
+            <pb n="10" facs="tcp:171029:8"/>
+            <p> The <hi>Body</hi> is the <hi>Subject,</hi> containing the <hi>Spirit,</hi> and the <hi>Spirit</hi> the contained <hi>Agent,</hi> vivifying and agitating the Body.</p>
+            <p>When the Body in all its parts, is intire and com<g ref="char:EOLhyphen"/>pleat, the Spirit without interruption performs all its own Operations perfectly. And 'tis evident the Spirit of Man delighteth in no Remedy, that is not capable to aſſiſt it in its own Acts, and to be better'd by it. <hi>Spiritus Spiritibus curantur: Spiritus optimi ſunt Morbo<g ref="char:EOLhyphen"/>rum Medicatores.</hi>
+            </p>
+            <p>Phyſicians are Nature's Miniſters, and whatſoever tends not to her Preſervation is out of the way that may be called Living. <hi>Eximius Medicus excellens debet eſſe Phyſicus: Accuratiſſime ſciat quibusvis Spirituum defecti<g ref="char:EOLhyphen"/>bus ſubvenire, convenientes accommodare Medicinas, Natu<g ref="char:EOLhyphen"/>ram juvare, errantem in viam ducere rectam, debilitatem roborare, oppreſſam relevare, ſuccumbenti ſuccurrere. Et talia praeſtare, ſi calluerit, jure merito Naturae-Conſultus dicendus eſt. Medicus vero, qui nec Naturam, nec Natu<g ref="char:EOLhyphen"/>rae Spiritus, nec Naturae Vires noviſſe didicit, qui Spirituum Morbos &amp; impotentias ignorat, qui Purgationibus Naturam deſtruit, qui Medicamentorum farragine Stomachum obruit, qui Naturam in actionibus ſuis &amp; operationibus confundit, Valetudinem conculcat: Et talis Medicus Naturae eſt de<g ref="char:EOLhyphen"/>ſtructor, Hoſtis &amp; Medicaſter.</hi>
+            </p>
+            <p>
+               <hi>Sanitatis formalitas eſt Potentia Naturales actiones ex<g ref="char:EOLhyphen"/>ercendi. Spiritus ſunt illi ipſi qui exercent illam potentiam.</hi>
+            </p>
+            <p>
+               <hi>Poſitis Spiritibus radiantibus, ponitur Vita, amiſſis &amp; extinctis, ponitur Mors.</hi>
+            </p>
+            <p>
+               <hi>Illa itaque Spirituum Medicina eſt Sal Spirituoſum, quia fluidam, volatilem, luminoſam reddit Spirituum, Sanguinis &amp; humorum obſcuritatem, craſſitiem &amp; ſegnitiem.</hi>
+            </p>
+            <p>The true <hi>Sal Volatile Oleoſum</hi> is to be prefer'd before a thouſand common Medicines, which prove them<g ref="char:EOLhyphen"/>ſelves to be rather injurious than profitable: Beccuſe
+<pb n="11" facs="tcp:171029:8"/> they want thoſe Univerſal Virtues, that are capable to anſwer the Spirits Neceſſities.</p>
+            <p>Moreover, Experience manifeſts, that the Relicts of acute Diſeaſes manag'd by Medicines contrary to Nature, become the Cauſes of Chronical Diſtempers.</p>
+            <p>Whereas true Medicine ſhould not be contrary to our Natures: But contrary to Diſeaſes, which are contrary to our Natures, and friendly to our Spirits.</p>
+            <p>Many Droop thro' Languid and Diſordered Spirits, and for Relief ſuffer themſelves to be tormented by Externals, or contrary Internals: Whereas a generous lively Remedy, agreeable to the Harmony of our Na<g ref="char:EOLhyphen"/>tures, and that neither dulls the Stomach, nor in<g ref="char:EOLhyphen"/>creaſes praeternatural Heat, but is found Temperate, Clean and Subtile; ſuch a Remedy wou'd ſoon pleaſe the Spirit of Life, and charm all its dependent Pow<g ref="char:EOLhyphen"/>ers and Organs.</p>
+            <p>
+               <hi>Tale eſt Sal Volatile Oleoſum noſtrum, quod non tantum hominem, ſed quodlibet Animal praeſervat in conſervatione ſanitatis. Curat omnes infirmitates de quibus Medici deſperaverunt, &amp; facit Hominem juveneſcere. Virtutem habet efficacem omnem ſanandi infirmitatem ſuper omnes alias Medicinas Medicorum: Non enim permittit Sangui<g ref="char:EOLhyphen"/>nem putrefieri, nec Phlegma ſuperdominari, nec Choleram aduri, nec Melancholiam ſuperexaltari. Nam Sanguinem purum multiplicat; contenta in Spiritualibus purgat, &amp; omnia Corporea membra efficaciter reſtaurat &amp; cuſtodit. Denique omnes tam Calidas, quam frigidas, tam ſiccas quam humidas infirmitates arctiſſime ſanat. Et ſi quis noſtro Sale utitur quotidie, illum aio animo, ac omni ſen<g ref="char:EOLhyphen"/>ſuum habitu tam alteratum iri, ac ſi revera viveret in Paradiſo.</hi>
+            </p>
+            <p>Here I ſhou'd end: But that nothing may be want<g ref="char:EOLhyphen"/>ing to any ones Expectation, I'l inſtance ſome parti<g ref="char:EOLhyphen"/>cular
+<pb n="12" facs="tcp:171029:9"/> Diſtempers it frequently Cures, without the help of any other Remedy.</p>
+            <p>Firſt, Diſtemper'd Stomachs, from Heat, Choller, Phlegm, ill Digeſtions, Surfeits of Meat or Drink, Heart-burn, Sowerneſs, Wind and Weakneſs.</p>
+            <p>All ſorts of Colli<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, tho' Scorbutic, and conſe<g ref="char:EOLhyphen"/>quently habitual.</p>
+            <p>The Scurvy in all its Shapes, Rheumatiſms, and Dropſies: For it renewes the Tincture of the Blood, and reſtores its Vital Ferment.</p>
+            <p>Fevers of all ſorts, eſpecially malignant.</p>
+            <p>Vapors, Melancholly, Hypochondriac Fumes, Hy<g ref="char:EOLhyphen"/>ſteric and Convulſion Fits.</p>
+            <p>Head-Aches, decay of Sight and Senſes, Numneſs, Tremblings, Palſie, Lethargy, <hi>&amp;c.</hi>
+            </p>
+            <p>Coughs, Hoarſneſs, Tiſſicks, Aſthma, Short-breath, <hi>&amp;c.</hi> It keeps the Pipes and Lungs clean from Clam<g ref="char:EOLhyphen"/>mineſs and Ulcerous Putrefactions.</p>
+            <p>In all Weak, Declinning, Conſumptive Caſes, 'tis Reſtorative, Strengthning and Preſervative. And ſo it is, to repair the Decays and Infirmities of Age.</p>
+            <p>All the time of Womens Lying-in, and in many other Caſes, 'tis a Noble Remedy.</p>
+            <p>'Tis an Excellent Remedy at large, for an ill Habit of Body.</p>
+            <p>This Vital, Balmy Medicine diſpoſes the Blood and Fleſh to Healing, and ſo promotes a ſound and ſpeedy Cure in Chirurgical Caſes.</p>
+            <pb n="13" facs="tcp:171029:9"/>
+            <p> To ſuch as are afflicted with Gout or Stone, 'tis very adviſeable, for mending the ſharp Ferment in their Blood and Stomachs, and to expel Wind freely. Herewith may be prevented the Fits of Gout and Stone, and the Increaſe of either.</p>
+            <p>In the beginning of all Indiſpoſitions, while the Caſe is yet doubtful, 'tis a ſafe and proper Me<g ref="char:EOLhyphen"/>dicine.</p>
+         </div>
+         <div type="directions_for_taking_medicinal_carbonate_of_ammonia_flavored_with_volatile_oils">
+            <pb n="14" facs="tcp:171029:10"/>
+            <head>DIRECTIONS.</head>
+            <p>Firſt, be ſure of the right Thing (for there are innumerable Pretenders) otherwiſe the Virtues a<g ref="char:EOLhyphen"/>ſcrib'd to it cannot be anſwer'd.</p>
+            <p>You cannot be deceiv'd, if you take but a little pains to inform your ſelves. Only remember it muſt be but one Thing, and no Compoſition by any means. It muſt be clear and full of Splendor, with<g ref="char:EOLhyphen"/>out any Colour. It muſt taſte of Salt only: And have no Scent, but what's Natural to a Volatil Salt. Dropt into Liquors it muſt appear Oily in its form, but with<g ref="char:EOLhyphen"/>out any Oil, Scum, or ſwiming on the Surface: For it muſt all go down to the bottom.</p>
+            <p>In White-wines, Cyder, and other Spirituous Li<g ref="char:EOLhyphen"/>quors, you'l ſee it lye at the bottom of the Glaſs and ſhew it ſelf red, which is an excellent mark, for that's a view of the internal Sulphur and Dig<g ref="char:EOLhyphen"/>nity of the Medicine.</p>
+            <p>In half a pint of Thames, New-River, City-Conduit, or other ſoft, open Water, take 60 or 70 drops.</p>
+            <p>In half a pint of Ale or Table-Beer, take 25 or 30 drops.</p>
+            <p>In a Glaſs of Wine, take 10 or 12 drops.</p>
+            <p>In Cyder or Mead, take 15 or 16 drops.</p>
+            <p>In a Glaſs of Mum, take 40 or 50 drops.</p>
+            <p>Remember to ſtir them up very well in all Li<g ref="char:EOLhyphen"/>quors, before you drink 'em.</p>
+            <pb n="15" facs="tcp:171029:10"/>
+            <p> Rub a Drop or two betwixt the Palms of your Hands and ſmell to 'em: Thus 'tis to be us'd fre<g ref="char:EOLhyphen"/>quently in many Caſes.</p>
+            <p>It may be drank at any time, Full or Faſting, and at Meals.</p>
+            <p>With theſe Drops you may amend all Liquors in their kinds, and render 'em Wholſomer and more agreeable to your Stomach and Pallate. As Wines, Cyder, Mead, Mum, Beer, Ale, <hi>&amp;c.</hi> Only you muſt obſerve due proportion to each, as before Di<g ref="char:EOLhyphen"/>rected: Thus you may make all Drinks Mellow, and rich in their kinds, without perceiving any thing put into them: And from being hard and ſharp to what degree of ſoftneſs and ſeeming newneſs you pleaſe.</p>
+            <p>But when taken Medicinally, my common way is a Glaſs of Water and Drops in the Forenoon, another after Dinner, and one juſt before you go to Bed; or inſtead of this laſt Doſe, take it in your E<g ref="char:EOLhyphen"/>venings Draughts.</p>
+            <p>If your Stomach feel Full or Foul, then drink two half pints of Water and Drops, with 60 in each, within an hour, or one ſingle pint of Water with 100, 110, or 120 Drops. But thus 'tis not to be con<g ref="char:EOLhyphen"/>tinu'd, only for a Morning, two or three, as Neceſſity requires, and may be omitted all the day beſides, unleſs to correct and renew your Drinks, and free 'em from doing Injury.</p>
+            <p>In many acute Caſes two or three Glaſſes of Water and Drops may be given in an Hours time, and ſea<g ref="char:EOLhyphen"/>ſon'd pretty ſtrong.</p>
+            <p>Theſe Drops may be drank in Milk-water, ſweet<g ref="char:EOLhyphen"/>ned with loaf Sugar to your Pallate.</p>
+            <pb n="16" facs="tcp:171029:11"/>
+            <p> You may Diſtil this, which is very grateful to eve<g ref="char:EOLhyphen"/>ry ones Stomach, and ſignifies ſomewhat more.</p>
+            <p>Take one handful of <hi>Carduus Benedictus.</hi>
+            </p>
+            <p>Of <hi>Spear-Mint</hi> two handfuls.</p>
+            <p>Of
+<list>
+                  <item>
+                     <hi>Roman Wormwood,</hi>
+                  </item>
+                  <item>
+                     <hi>Angelico,</hi>
+                  </item>
+                  <item>
+                     <hi>Rue,</hi>
+                  </item>
+                  <item>
+                     <hi>Bawme,</hi>
+                  </item>
+               </list> each one handful.</p>
+            <p>Shred 'em Groſs, and put 'em into a Gallon of Milk over Night in a cold Pewter Still, and next Morning Diſtil gently two quarts or five pints. This you may make any time in the Year, for ſome of the the Herbs are as well Dry.</p>
+            <p>About 40 or 50 Drops in a Claret Glaſs full, firſt ſweetned, and then ſtir'd in, is a moderate Doſe to be taken at any time by any one, and repeated at pleaſure.</p>
+            <p>Many being us'd to great Variety of Medicines, can't underſtand how ſo much benefit may be re<g ref="char:EOLhyphen"/>ceiv'd by one: Being accuſtomed to Vomiting, Purg<g ref="char:EOLhyphen"/>ing, Sweating, Bleeding, Bliſtering, and other Vio<g ref="char:EOLhyphen"/>lences; but wholly unacquainted with what's Grate<g ref="char:EOLhyphen"/>ful, Innocent and Powerful; eaſily conjoining to the Vital Spirits, yet ſenſibly diſcern'd, and only by its good Effects.</p>
+            <closer>
+               <dateline>From my Houſe in the the Square in <hi>Salis<g ref="char:EOLhyphen"/>bury-Court, Fleet<g ref="char:EOLhyphen"/>ſtreet.</hi>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
